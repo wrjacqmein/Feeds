@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+    <head>
+        <title>gPodder subscriptions</title>
+        <dateCreated>Sun, 13 Sep 2015 09:17:52 -0400</dateCreated>
+    </head>
+    <body>
+        <outline text="Bringing you the latest and greatest from the A Cappella world. Covering all styles and genres, and playing tracks from around the globe." title="The Acapodcast" type="rss" xmlUrl="http://feeds.feedburner.com/TheAcapodcast"/>
+        <outline text="The Cover Music Show" title="Coverville" type="rss" xmlUrl="http://feeds.feedburner.com/coverville"/>
+        <outline text="Professor Bob tells the fascinating stories of history's people, places, and cultures." title="History According to Bob" type="rss" xmlUrl="http://www.summahistorica.com/podcast/rss.xml"/>
+        <outline text="KEXP Song of the Day" title="KEXP Song of the Day" type="rss" xmlUrl="http://feeds.kexp.org/kexp/songoftheday"/>
+        <outline text="Welcome to German-Podcast.de. This Podcast will teach you German. It is free and you can listen to the Podcast at anytime you want. PDF transcripts containing the new words are provided." title="Learn German for free with German-Podcast.de" type="rss" xmlUrl="http://feeds.feedburner.com/German-podcast"/>
+        <outline text="Manager Tools" title="Manager Tools" type="rss" xmlUrl="http://www.manager-tools.com/podcasts/feed/rss2"/>
+        <outline text="" title="Network Security Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/Netsecpodcastcom?format=xml"/>
+        <outline text="All of Our Blogs and Podcasts in A Single RSS Feed" title="Packet Pushers Podcast" type="rss" xmlUrl="http://feeds.packetpushers.net/packetpushersfatpipe"/>
+        <outline text="Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte." title="Security Now!" type="rss" xmlUrl="http://leoville.tv/podcasts/sn.xml"/>
+        <outline text="Virtualisation Podcast featuring news &amp; insights from virtualisation professionals based in Europe." title="vSoup" type="rss" xmlUrl="http://vsoup.net/feed/"/>
+        <outline text="Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The story" title="The Moth Podcast" type="rss" xmlUrl="http://feeds.themoth.org/themothpodcast"/>
+        <outline text="" title="Social-Engineer.Org PodCast" type="rss" xmlUrl="http://socialengineer.podbean.com/feed"/>
+        <outline text="A two-time Peabody Award-winner, Radiolab is an investigation told through sounds and stories, and centered around one big idea. In the Radiolab world, information sounds like music and science and culture collide. Hosted by Jad Abumrad and Robert Krulwic" title="WNYC's Radiolab" type="rss" xmlUrl="http://www.radiolab.org/feeds/podcast/"/>
+        <outline text="A public dialogue about belief—one essay at a time" title="This I Believe: Podcast" type="rss" xmlUrl="http://feeds.thisibelieve.org/tib-podcast"/>
+        <outline text="Short audio stories from the world of science" title="NOVA | PBS" type="rss" xmlUrl="http://www.pbs.org/wgbh/nova/rss/nova-podcast-pb.xml"/>
+        <outline text="Science Candy" title="NOVA scienceNOW" type="rss" xmlUrl="http://www.pbs.org/wgbh/nova/sciencenow/rss/nsn-podcast-pb.xml"/>
+        <outline text="The TED Radio Hour is a journey through fascinating ideas: astonishing inventions, fresh approaches to old problems, new ways to think and create. Based on Talks given by riveting speakers on the world-renowned TED stage, each show is centered on a common theme – such as the source of happiness, crowd-sourcing innovation, power shifts, or inexplicable connections. The TED Radio Hour is hosted by Guy Raz, and is a co-production of NPR &amp; TED. Follow the show @TEDRadioHour." title="NPR: TED Radio Hour Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510298"/>
+        <outline text="NPR's weekly current events quiz.  Have a laugh and test your news knowledge while figuring out what's real and what we've made up." title="NPR Programs: Wait Wait... Don't Tell Me! Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast/podcast_detail.php?siteId=5183214"/>
+        <outline text="Money makes the world go around, faster and faster every day. On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks — all trying to make sense of our rapidly changing global economy." title="NPR: Planet Money Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510289"/>
+        <outline text="" title="gootmusic on YouTube" type="rss" xmlUrl="http://www.youtube.com/user/gootmusic"/>
+        <outline text="" title="JuliaSheer on YouTube" type="rss" xmlUrl="http://www.youtube.com/user/JuliaSheer"/>
+        <outline text="" title="againstthecurrentNY on YouTube" type="rss" xmlUrl="http://www.youtube.com/user/againstthecurrentNY"/>
+        <outline text="French lessons made easy, with high-quality audio podcasts and professional PDF Guides to make sense of everything." title="Learn French by Podcast" type="rss" xmlUrl="http://ftew.libsyn.com/rss"/>
+        <outline text="Learn Japanese the fun and easy way" title="Learn Japanese Pod Shows" type="rss" xmlUrl="http://feeds.feedburner.com/learnjapanesepod"/>
+        <outline text="For people who wants to learn Japanese, NHK WORLD broadcasts total of 48 lessons with text and audio downloads in 17 languages for free, updated every week." title="Japanese Lessons, free text/audio downloads | NHK WORLD" type="rss" xmlUrl="http://www3.nhk.or.jp/lesson/common/rss/lesson/english.xml"/>
+        <outline text="" title="AtGoogleTalks on YouTube" type="rss" xmlUrl="http://www.youtube.com/user/AtGoogleTalks"/>
+        <outline text="" title="Mary Lambert on YouTube" type="rss" xmlUrl="http://www.youtube.com/user/lalalapetalvoice"/>
+        <outline text="Weekly doings of a SharePoint Admin" title="Todd Klindt's SharePoint Admin Netcast" type="rss" xmlUrl="http://toddklindt.com/netcast/MP3/feed-mp3.rss"/>
+        <outline text="" title="Adrian Crenshaw on YouTube" type="rss" xmlUrl="http://www.youtube.com/user/irongeek?feature=watchhttp://www.youtube.com/user/irongeek?feature=watch"/>
+        <outline text="Too much networking would never be enough." title="The Network Break" type="rss" xmlUrl="http://packetpushers.net/series/network-break-podcast-post/feed/"/>
+        <outline text="Wits is a live public radio show and podcast in which host John Moe brings world-class comedians, actors and musicians to the stage of the Fitzgerald Theater. Wits mixes improv, sketch comedy, conversation, music and genuine beauty." title="Wits" type="rss" xmlUrl="http://feeds.feedburner.com/witsapm"/>
+        <outline text="Michael Feldman's Whad'Ya Know?" title="PRI: Michael Feldman's Whad'Ya Know?" type="rss" xmlUrl="http://feeds.feedburner.com/WhadyaKnow"/>
+        <outline text="Snap Judgment is the smoking-hot new show from NPR. Winner of the Public Radio Talent Quest, Glynn Washington delivers a raw, musical brand of storytelling, daring listeners to see the world through the eyes of another." title="NPR: Snap Judgment Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510294"/>
+        <outline text="Like A Version is a segment on Australian radio station triple j. Every Friday morning a musician or band comes into the studio to play one of their own songs and a cover of a song they love.." title="triple j Like A Version" type="rss" xmlUrl="http://www.abc.net.au/triplej/live/rss/podcast.xml"/>
+        <outline text="A new podcast from the creators of This American Life" title="Serial" type="rss" xmlUrl="http://feeds.serialpodcast.org/serialpodcast"/>
+    </body>
+</opml>
