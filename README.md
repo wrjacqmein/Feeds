@@ -1,2 +1,2 @@
 # Feeds
-Podcasts, blogs, bookmakrs
+Podcasts, blogs, bookmarks
