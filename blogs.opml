@@ -2,7 +2,7 @@
 <opml xmlns:rssowl="http://www.rssowl.org" version="1.1">
   <head>
     <title>RSSOwl Subscriptions</title>
-    <dateModified>Mon, 02 Jan 2017 10:28:25 EST</dateModified>
+    <dateModified>Sat, 11 Feb 2017 09:44:42 EST</dateModified>
   </head>
   <body>
     <outline text="My Feeds" rssowl:isSet="true" rssowl:id="7">
@@ -161,6 +161,19 @@
         <outline text="texblog" xmlUrl="http://texblog.org/feed" rssowl:id="459644" />
         <outline text="You are being redirected..." xmlUrl="https://perezbox.com/category/security" rssowl:id="498542" />
         <outline text="Gurteen Knowledge" xmlUrl="http://feeds.feedburner.com/GurteenKnowledgeUpdate" rssowl:id="520473" />
+        <outline text="MCU on Eclipse" xmlUrl="https://mcuoneclipse.com/feed" rssowl:id="524809" />
+        <outline text="Home Server Show" xmlUrl="http://homeservershow.com/feed" rssowl:id="525402" />
+        <outline text="Brian's Blog" xmlUrl="https://blog.brianmoses.net/atom.xml" rssowl:id="563488" />
+        <outline text="Odd Bits" xmlUrl="http://blog.oddbit.com/rss.xml" rssowl:id="563673" />
+        <outline text="rui lopes notebook" xmlUrl="http://blog.ruilopes.com/feed.xml" rssowl:id="564601" />
+        <outline text="Scott’s Weblog" xmlUrl="http://blog.scottlowe.org//feed.xml" rssowl:id="564603" />
+        <outline text="byronpate.com" xmlUrl="http://byronpate.com/feed" rssowl:id="564888" />
+        <outline text="Blog – CasJam" xmlUrl="http://casjam.com/blog/feed" rssowl:id="564926" />
+        <outline text="The Silicon Underground" xmlUrl="http://dfarq.homeip.net/feed" rssowl:id="565246" />
+        <outline text="Justin James" xmlUrl="http://digitaldrummerj.me/feed.xml" rssowl:id="565279" />
+        <outline text="On the third side" xmlUrl="http://ingvar.blog.redpill-linpro.com/feed" rssowl:id="565401" />
+        <outline text="Inkscape Tutorial" xmlUrl="http://inkstutor.blogspot.com/feeds/posts/default" rssowl:id="565477" />
+        <outline text="Rule of Tech" xmlUrl="http://ruleoftech.com/feed" rssowl:id="578285" />
       </outline>
       <outline text="Virtualization" rssowl:isSet="false" rssowl:id="521">
         <outline text="A glimpse into the life of IT" xmlUrl="http://itforme.wordpress.com/feed/" rssowl:id="522" />
@@ -203,6 +216,10 @@
         <outline text="Tech Debug" xmlUrl="http://feeds.feedburner.com/TechDebug" rssowl:id="459809" />
         <outline text="Marco Franssen" xmlUrl="https://marcofranssen.nl/atom.xml" rssowl:id="460102" />
         <outline text="Midnight Sailing" xmlUrl="http://midnightsailing.com/?q=rss.xml" rssowl:id="469239" />
+        <outline text="Miles to go 3.0 ..." xmlUrl="http://feeds.feedburner.com/MilesToGo" rssowl:id="563420" />
+        <outline text="VMware Security &amp; Compliance Blog" xmlUrl="http://feeds.feedburner.com/VmwareSecurityComplianceBlog" rssowl:id="564798" />
+        <outline text="Technical notes, my online memory" xmlUrl="http://ilostmynotes.blogspot.com/feeds/posts/default" rssowl:id="565399" />
+        <outline text="daily life with an shell" xmlUrl="http://lifeandshell.com/feed" rssowl:id="570108" />
       </outline>
       <outline text="Computer Hardware News" rssowl:isSet="false" rssowl:id="544">
         <outline text="DailyTech Main News Feed" xmlUrl="http://www.dailytech.com/rss.aspx" rssowl:id="545" />
@@ -320,12 +337,17 @@
         <outline text="jjasghar rants and ramblings" xmlUrl="https://jjasghar.github.io/feed.xml" rssowl:id="519404" />
         <outline text="Shaw Innes" xmlUrl="http://shawinnes.com/feed.xml" rssowl:id="519440" />
         <outline text="Brian Reiter's Thoughtful Code" xmlUrl="https://brianreiter.org/feed" rssowl:id="519462" />
+        <outline text="Amado Martinez" xmlUrl="http://projectivemotion.com/feed" rssowl:id="560937" />
+        <outline text="Backdrift" xmlUrl="http://feeds.feedburner.com/Backdrift" rssowl:id="563304" />
+        <outline text="IT Stuff I Learned Today" xmlUrl="http://itstuffilearnedtoday.blogspot.com/feeds/posts/default" rssowl:id="565568" />
+        <outline text="Sam Doran" xmlUrl="http://samdoran.com/rss" rssowl:id="578335" />
       </outline>
       <outline text="Japan News" rssowl:isSet="false" rssowl:id="613">
         <outline text="Japan Today: Japan News and Discussion" xmlUrl="http://www.japantoday.com/feed" rssowl:id="614" />
         <outline text="Japan Today: Japan News and Discussion - Business" xmlUrl="http://www.japantoday.com/feed/category/business" rssowl:id="615" />
         <outline text="Japan Today: Japan News and Discussion - Crime" xmlUrl="http://www.japantoday.com/feed/category/crime" rssowl:id="616" />
         <outline text="Japan Today: Japan News and Discussion - Technology" xmlUrl="http://www.japantoday.com/feed/category/technology" rssowl:id="617" />
+        <outline text="Spoon &amp; Tamago" xmlUrl="http://www.spoon-tamago.com/feed" rssowl:id="524762" />
       </outline>
       <outline text="Apple" rssowl:isSet="false" rssowl:id="618">
         <outline text="Macsimum News" xmlUrl="http://feeds.pheedo.com/MacsimumNewsRSS" rssowl:id="619" />
@@ -386,6 +408,8 @@
         <outline text="apt-get install debian-wizard" xmlUrl="http://feeds.feedburner.com/RaphaelHertzogCom" rssowl:id="459228" />
         <outline text="The latest posts | Philipp's Computing Blog" xmlUrl="https://blog.philippklaus.de" rssowl:id="460036" />
         <outline text="Connor Johnson" xmlUrl="http://connor-johnson.com/feed" rssowl:id="520683" />
+        <outline text="Liberal Murmurs" xmlUrl="http://blog.halon.org.uk/feed" rssowl:id="563511" />
+        <outline text="DevOps Thoughts" xmlUrl="http://blog.isaacs.net/feed" rssowl:id="563627" />
       </outline>
       <outline text="Storage" rssowl:isSet="false" rssowl:id="669">
         <outline text="Chuck's Blog" xmlUrl="http://chucksblog.emc.com/chucks_blog/atom.xml" rssowl:id="670" />
@@ -467,6 +491,14 @@
         <outline text="EH-Net Online Mag" xmlUrl="https://www.ethicalhacker.net/feed" rssowl:id="520530" />
         <outline text="SANS Information Security Reading Room" xmlUrl="https://www.sans.org/reading-room/rss" rssowl:id="520656" />
         <outline text="Deeplinks" xmlUrl="https://www.eff.org/rss/updates.xml" rssowl:id="522564" />
+        <outline text="Stack Exchange Security Blog" xmlUrl="http://security.blogoverflow.com/feed" rssowl:id="525602" />
+        <outline text="Blog – Adam Caudill" xmlUrl="https://adamcaudill.com/blog/feed/" rssowl:id="563238" />
+        <outline text="Andrew Berls" xmlUrl="http://andrewberls.com/feed" rssowl:id="563268" />
+        <outline text="ICE9 Blog" xmlUrl="http://blog.ice9.us/feeds/posts/default" rssowl:id="563658" />
+        <outline text="Open Security Research" xmlUrl="http://blog.opensecurityresearch.com/feeds/posts/default" rssowl:id="564310" />
+        <outline text="Cyber Thoughts" xmlUrl="http://feeds.feedburner.com/staynings/CyberThoughts" rssowl:id="564701" />
+        <outline text="MalwareJake" xmlUrl="http://malwarejake.blogspot.com/feeds/posts/default" rssowl:id="570171" />
+        <outline text="Bob on Medical Device Software" xmlUrl="http://feeds2.feedburner.com/BobOnMedicalDeviceSoftware" rssowl:id="578234" />
       </outline>
       <outline text="Active Directory" rssowl:isSet="false" rssowl:id="691">
         <outline text="Active Directory Blog" xmlUrl="http://blogs.technet.com/b/ad/privaterss.aspx" rssowl:id="692" />
