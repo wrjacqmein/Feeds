@@ -2,7 +2,7 @@
 <opml xmlns:rssowl="http://www.rssowl.org" version="1.1">
   <head>
     <title>RSSOwl Subscriptions</title>
-    <dateModified>Sun, 09 Apr 2017 21:31:27 EDT</dateModified>
+    <dateModified>Sun, 11 Jun 2017 21:28:36 EDT</dateModified>
   </head>
   <body>
     <outline text="My Feeds" rssowl:isSet="true" rssowl:id="7">
@@ -198,6 +198,13 @@
         <outline text="Marksei" xmlUrl="http://www.marksei.com/feed" rssowl:id="749482" />
         <outline text="Slaptijack" xmlUrl="http://feeds.feedburner.com/slaptijack" rssowl:id="749628" />
         <outline text="Waclaw Chrabaszcz" xmlUrl="http://geekswithblogs.net/Wchrabaszcz/Rss.aspx" rssowl:id="749801" />
+        <outline text="Winston Salem Maker Lab" xmlUrl="http://wsmlab.blogspot.com/feeds/posts/default" rssowl:id="786818" />
+        <outline text="David Vassallo's Blog" xmlUrl="http://blog.davidvassallo.me/feed" rssowl:id="810749" />
+        <outline text="rtl-sdr.com" xmlUrl="http://www.rtl-sdr.com/feed" rssowl:id="811012" />
+        <outline text="Jason Blevins" xmlUrl="http://jblevins.org/index.atom" rssowl:id="811086" />
+        <outline text="furbo.org" xmlUrl="http://furbo.org/feed" rssowl:id="862764" />
+        <outline text="ZenCoffee Blog" xmlUrl="https://blog.zencoffee.org/feed" rssowl:id="865016" />
+        <outline text="Windows Command Line" xmlUrl="https://www.windows-commandline.com/feed" rssowl:id="865141" />
       </outline>
       <outline text="Virtualization" rssowl:isSet="false" rssowl:id="521">
         <outline text="A glimpse into the life of IT" xmlUrl="http://itforme.wordpress.com/feed/" rssowl:id="522" />
@@ -252,6 +259,8 @@
         <outline text="Adventures in a Virtual World" xmlUrl="https://paulgrevink.wordpress.com/feed" rssowl:id="678652" />
         <outline text="sdorsett.github.io" xmlUrl="https://sdorsett.github.io/atom.xml" rssowl:id="678769" />
         <outline text="Fun with virtualization" xmlUrl="https://virtuallyfun.superglobalmegacorp.com/feed" rssowl:id="681925" />
+        <outline text="virtualstace.com" xmlUrl="https://virtualstace.com/feed" rssowl:id="770214" />
+        <outline text="viktorious.nl – Virtualization &amp; Cloud Management" xmlUrl="https://www.viktorious.nl/feed" rssowl:id="862503" />
       </outline>
       <outline text="Computer Hardware News" rssowl:isSet="false" rssowl:id="544">
         <outline text="DailyTech Main News Feed" xmlUrl="http://www.dailytech.com/rss.aspx" rssowl:id="545" />
@@ -300,6 +309,7 @@
         <outline text="c0t0d0s0.org" xmlUrl="http://feeds.feedburner.com/Wwwc0t0d0s0org" rssowl:id="581" />
         <outline text="Jonathan Schwartz's Blog" xmlUrl="http://blogs.sun.com/jonathan/feed/entries/rss" rssowl:id="582" />
         <outline text="SDN Channel" xmlUrl="http://blogs.sun.com/SDNChannel/feed/entries/rss" rssowl:id="583" />
+        <outline text="rootpool" xmlUrl="http://blog.moellenkamp.org/index.php?/feeds/index.rss2" rssowl:id="817579" />
       </outline>
       <outline text="sysadmin" rssowl:isSet="false" rssowl:id="584">
         <outline text="StoiloBlog: everyday administration adventures" xmlUrl="http://en.blog.wordpress.com/feed/" rssowl:id="585" />
@@ -391,6 +401,17 @@
         <outline text="Xonay Labs | Michael Teeuw" xmlUrl="http://michaelteeuw.nl" rssowl:id="749230" />
         <outline text="Daniel Classon" xmlUrl="http://www.danielclasson.com/feed" rssowl:id="749232" />
         <outline text="Guy, Robot" xmlUrl="https://guyrobottv.wordpress.com/feed" rssowl:id="749328" />
+        <outline text="Deployment Research blog" xmlUrl="http://deploymentresearch.com/DesktopModules/Blog/API/RSS/Get?tabid=62&amp;moduleid=383" rssowl:id="770581" />
+        <outline text="Techblog – 0xf8.org" xmlUrl="http://www.0xf8.org/techblog/feed" rssowl:id="809570" />
+        <outline text="The IT Skeptic" xmlUrl="http://www.itskeptic.org/rss" rssowl:id="810589" />
+        <outline text="ASC Blog" xmlUrl="http://andrewsullivancant.ca/blog" rssowl:id="810664" />
+        <outline text="SFlanders.net" xmlUrl="http://sflanders.net/feed" rssowl:id="810949" />
+        <outline text="Philipp's Tech Blog" xmlUrl="https://blog.heckel.xyz/feed" rssowl:id="860896" />
+        <outline text="Data Center Dan - Bloghttp://www.datacenterdan.com/blogBlogTue, 07 Mar 2017 09:00:38 -0800Weebly﻿The Next Chapter Has Begunhttp://www.datacenterdan.com/blog/the-next-chapter-has-begunhttp://www.datacenterdan.com/blog/the-next-chapter-has-begun#commentsWed, 01 Mar 2017 18:50:42 GMTUncategorizedhttp://www.datacenterdan.com/blog/the-next-chapter-has-begunWell friends, the next chapter has begun. Last week I started my new position as a Solution Architect for NetApp, covering Data Center Architectures—most notably, FlexPod. I'm super-excited, and I hope you are, too!  How Did I get Here?   &#x9; &#x9;&#x9; &#x9;&#x9;&#x9; &#x9;&#x9;&#x9;&#x9; &#x9;&#x9;&#x9;&#x9;&#x9; &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;  ​Many of you already know some about my journey. But for those who don't—or maybe my friends who don't remember :)—here's a little bit about how it's happened in my life. It's not a blueprint, for sure. It's a [...] Well friends, the next chapter has begun. Last week I started my new position as a Solution Architect for NetApp, covering Data Center Architectures—most notably, FlexPod. I'm super-excit" xmlUrl="http://www.datacenterdan.com/1/feed" rssowl:id="862640" />
+        <outline text="Nick's IT Crap" xmlUrl="https://nicksitcrap.wordpress.com/feed" rssowl:id="862988" />
+        <outline text="Silly Bits" xmlUrl="https://mtlynch.io/feed.xml" rssowl:id="863117" />
+        <outline text="ZenCoffee Blog" xmlUrl="https://blog.zencoffee.org/feed" rssowl:id="865139" />
+        <outline text="Low End Box" xmlUrl="https://lowendbox.com/feed" rssowl:id="886915" />
       </outline>
       <outline text="Japan News" rssowl:isSet="false" rssowl:id="613">
         <outline text="Japan Today: Japan News and Discussion - Business" xmlUrl="http://www.japantoday.com/feed/category/business" rssowl:id="615" />
@@ -399,6 +420,7 @@
         <outline text="Japan Today: Japan News and Discussion - Technology" xmlUrl="http://www.japantoday.com/feed/category/technology" rssowl:id="617" />
         <outline text="Spoon &amp; Tamago" xmlUrl="http://www.spoon-tamago.com/feed" rssowl:id="524762" />
         <outline text="Home Japan" xmlUrl="http://www.homejapan.com/rss.xml" rssowl:id="649852" />
+        <outline text="Wafuku" xmlUrl="https://wafuku.wordpress.com/feed" rssowl:id="770622" />
       </outline>
       <outline text="Apple" rssowl:isSet="false" rssowl:id="618">
         <outline text="Macsimum News" xmlUrl="http://feeds.pheedo.com/MacsimumNewsRSS" rssowl:id="619" />
@@ -466,6 +488,10 @@
         <outline text="Kaiwan's Tech Blog" xmlUrl="https://kaiwantech.wordpress.com/feed" rssowl:id="601226" />
         <outline text="/home/liquidat" xmlUrl="https://liquidat.wordpress.com/feed" rssowl:id="601415" />
         <outline text="MartinLanner.com" xmlUrl="https://martinlanner.com/feed" rssowl:id="601654" />
+        <outline text="SKYCUBE.net" xmlUrl="https://skycube.net/feed" rssowl:id="770451" />
+        <outline text="Lisenet.com :: Linux | Security | Networking" xmlUrl="http://www.lisenet.com/feed" rssowl:id="810434" />
+        <outline text="Sloppy Linux Notes" xmlUrl="http://sysadm.mielnet.pl/feed" rssowl:id="810436" />
+        <outline text="levlaz" xmlUrl="https://levlaz.org/feed" rssowl:id="810587" />
       </outline>
       <outline text="Storage" rssowl:isSet="false" rssowl:id="669">
         <outline text="Chuck's Blog" xmlUrl="http://chucksblog.emc.com/chucks_blog/atom.xml" rssowl:id="670" />
@@ -584,6 +610,16 @@
         <outline text="Securezoo.com" xmlUrl="https://www.securezoo.com/rss.aspx" rssowl:id="680176" />
         <outline text="Tenable Blog" xmlUrl="http://feeds.feedburner.com/tenable/qaXL" rssowl:id="681817" />
         <outline text="Poshoholic" xmlUrl="https://poshoholic.com/feed" rssowl:id="704887" />
+        <outline text="Linux Audit" xmlUrl="https://linux-audit.com/feed" rssowl:id="770308" />
+        <outline text="RSS Feed | Homeland Security News Wire" xmlUrl="http://www.homelandsecuritynewswire.com/rss" rssowl:id="771046" />
+        <outline text="Trail of Bits Blog" xmlUrl="https://blog.trailofbits.com/feed" rssowl:id="810666" />
+        <outline text="/dev/random" xmlUrl="https://blog.rootshell.be/feed" rssowl:id="862702" />
+        <outline text="Graham Cluley" xmlUrl="https://www.grahamcluley.com/feed" rssowl:id="862819" />
+        <outline text="nullsecure" xmlUrl="https://nullsecure.org/feed" rssowl:id="862821" />
+        <outline text="Cyber Security Bulletins" xmlUrl="https://www.publicsafety.gc.ca/cnt/_xml/cybr-ctr-eng.xml" rssowl:id="862823" />
+        <outline text="Daniel Cid" xmlUrl="http://dcid.me/blog/feed" rssowl:id="863159" />
+        <outline text="Daily notes — Daniel Cid v2016" xmlUrl="http://dcid.me/notes" rssowl:id="865014" />
+        <outline text="Lisenet.com :: Linux | Security | Networking" xmlUrl="https://www.lisenet.com/feed" rssowl:id="866512" />
       </outline>
       <outline text="Active Directory" rssowl:isSet="false" rssowl:id="691">
         <outline text="Active Directory Blog" xmlUrl="http://blogs.technet.com/b/ad/privaterss.aspx" rssowl:id="692" />
@@ -591,6 +627,7 @@
         <outline text="Brian Desmond's Blog" xmlUrl="http://feeds.feedburner.com/BrianDesmond" rssowl:id="694" />
         <outline text="Florian's Blog" xmlUrl="http://frickelsoft.net/blog/?feed=rss2" rssowl:id="695" />
         <outline text="msgoodies" xmlUrl="http://msgoodies.blogspot.com/feeds/posts/default" rssowl:id="696" />
+        <outline text="Alan's Blog" xmlUrl="https://www.akaplan.com/blog/feed" rssowl:id="809716" />
       </outline>
       <outline text="SAP" rssowl:isSet="false" rssowl:id="697">
         <outline text="SAP Basis" xmlUrl="http://sapbasis.wordpress.com/feed/" rssowl:id="698" />
@@ -620,6 +657,8 @@
         <outline text="Pete Finnigan's Oracle security weblog" xmlUrl="http://petefinnigan.com/weblog/entries/petefinnigan.rdf" rssowl:id="713" />
         <outline text="Frits Hoogland Weblog" xmlUrl="https://fritshoogland.wordpress.com/feed" rssowl:id="460289" />
         <outline text="Late Night Oracle Blog" xmlUrl="https://pmdba.wordpress.com/feed" rssowl:id="460420" />
+        <outline text="Upgrade your Database – NOW!" xmlUrl="https://mikedietrichde.com/feed" rssowl:id="862547" />
+        <outline text="Dbhk's Blog" xmlUrl="https://dbhk.wordpress.com/feed" rssowl:id="862655" />
       </outline>
       <outline text="Lotus Notes" rssowl:isSet="false" rssowl:id="714">
         <outline text="11TMR" xmlUrl="http://feeds.feedburner.com/11tmr/Stories" rssowl:id="715" />
@@ -665,6 +704,7 @@
       <outline text="Maker" rssowl:isSet="false" rssowl:id="132445">
         <outline text="Concretedog" xmlUrl="http://concretedog.blogspot.com/feeds/posts/default" rssowl:id="132447" />
         <outline text="Antibore's Blog" xmlUrl="https://antibore.wordpress.com/feed" rssowl:id="370413" />
+        <outline text="Arduino based underwater sensors" xmlUrl="https://edwardmallon.wordpress.com/feed" rssowl:id="880069" />
       </outline>
       <outline text="emtunc's Blog" xmlUrl="http://emtunc.org/blog/feed" rssowl:id="132540" />
       <outline text="HomeAutomation" rssowl:isSet="false" rssowl:id="309479">
