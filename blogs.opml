@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <dateCreated>Sat, 22 Jul 2017 17:54:23 +0000</dateCreated>
+    <dateCreated>Mon, 18 Sep 2017 01:46:57 +0000</dateCreated>
     <title>Tiny Tiny RSS Feed Export</title>
   </head>
   <body>
@@ -13,6 +13,7 @@
         <outline type="rss" text="Brian Desmond's Blog" xmlUrl="http://feeds.feedburner.com/BrianDesmond"/>
         <outline type="rss" text="Florian's Blog" xmlUrl="http://frickelsoft.net/blog/?feed=rss2"/>
         <outline type="rss" text="msgoodies" xmlUrl="http://msgoodies.blogspot.com/feeds/posts/default"/>
+        <outline type="rss" text="Please Work" xmlUrl="http://pleasework.robbievance.net/feed/" htmlUrl="http://pleasework.robbievance.net"/>
       </outline>
       <outline text="Apple">
         <outline type="rss" text="Macsimum News" xmlUrl="http://feeds.pheedo.com/MacsimumNewsRSS"/>
@@ -70,6 +71,8 @@
         <outline type="rss" text="DennisKennedy.blog" xmlUrl="http://denniskennedy.com/feed/"/>
         <outline type="rss" text="Discovery Resources » e-Lessons Learned" xmlUrl="http://www.discoveryresources.org/feed/"/>
         <outline type="rss" text="E-Discovery Forum" xmlUrl="http://electronicdiscovery.info/feed/"/>
+        <outline type="rss" text="Law and Daily Life" xmlUrl="http://feeds.findlaw.com/LawAndLife" htmlUrl="http://blogs.findlaw.com/law_and_life/"/>
+        <outline type="rss" text="Lawfare - Hard National Security Choices" xmlUrl="https://www.lawfareblog.com/feed" htmlUrl="https://www.lawfareblog.com/recent"/>
         <outline type="rss" text="Law Firm IT" xmlUrl="http://lawfirmit.blogspot.com/feeds/posts/default"/>
         <outline type="rss" text="Legal Pad" xmlUrl="http://feeds.feedburner.com/legalpad_feed"/>
         <outline type="rss" text="TechnoLawyer Blog" xmlUrl="http://feeds.feedburner.com/technolawyer"/>
@@ -167,7 +170,13 @@
         <outline type="rss" text="About HPE Networking" xmlUrl="https://abouthpnetworking.com/feed/" htmlUrl="https://abouthpnetworking.com"/>
         <outline type="rss" text="blindhog.net" xmlUrl="http://feeds.feedburner.com/blindhog/xMrM"/>
         <outline type="rss" text="Cisco IOS hints and tricks" xmlUrl="http://blog.ioshints.info/feeds/posts/default"/>
+        <outline type="rss" text="ComputerTechBlog" xmlUrl="http://www.computertechblog.com/feed/" htmlUrl="http://www.computertechblog.com"/>
+        <outline type="rss" text="FierceCable" xmlUrl="http://www.fiercecable.com/rss/xml" htmlUrl="http://www.fiercecable.com/rss/xml"/>
+        <outline type="rss" text="FuriousFiber" xmlUrl="http://furiousfiber.com/feed/" htmlUrl="http://furiousfiber.com"/>
+        <outline type="rss" text="Glazenbakje's technical blog" xmlUrl="https://glazenbakje.wordpress.com/feed/" htmlUrl="https://glazenbakje.wordpress.com"/>
+        <outline type="rss" text="Greg Sowell Consulting" xmlUrl="http://gregsowell.com/?feed=rss2" htmlUrl="http://gregsowell.com"/>
         <outline type="rss" text="How Does Internet Work" xmlUrl="https://howdoesinternetwork.com/feed" htmlUrl="https://howdoesinternetwork.com"/>
+        <outline type="rss" text="Infra Blog" xmlUrl="https://heggel4.wordpress.com/feed/" htmlUrl="https://heggel4.wordpress.com"/>
         <outline type="rss" text="Jason Edelman's Blog" xmlUrl="http://jedelman.com/feed.xml"/>
         <outline type="rss" text="Michael McNamara" xmlUrl="https://blog.michaelfmcnamara.com/feed"/>
         <outline type="rss" text="Mostlynetworks.com" xmlUrl="https://www.mostlynetworks.com/feed"/>
@@ -180,17 +189,37 @@
         <outline type="rss" text="Open-Source Routing and Network Simulation" xmlUrl="http://feeds.feedburner.com/brian-linkletter-open-source-routing-blog"/>
         <outline type="rss" text="PacketLife.net Community Blog" xmlUrl="http://packetlife.net/feeds/blog/"/>
         <outline type="rss" text="Security to the Core | Arbor Networks Security" xmlUrl="http://feeds2.feedburner.com/asert"/>
+        <outline type="rss" text="Seth Forshee's Blog" xmlUrl="http://www.forshee.me/feed.xml" htmlUrl="http://www.forshee.me/"/>
+        <outline type="rss" text="stewart a." xmlUrl="http://www.firewing1.com/rss.xml" htmlUrl="http://www.firewing1.com"/>
         <outline type="rss" text="The Forwarding Plane" xmlUrl="https://www.forwardingplane.net/feed"/>
         <outline type="rss" text="The Networking Nerd" xmlUrl="https://networkingnerd.net/feed"/>
+        <outline type="rss" text="The Wifi-Cable" xmlUrl="https://thewificable.com/feed/" htmlUrl="https://thewificable.com"/>
+        <outline type="rss" text="Unadulterated Nerdery" xmlUrl="http://www.unadulteratednerdery.com/feed/" htmlUrl="http://www.unadulteratednerdery.com"/>
         <outline type="rss" text="vNetWise" xmlUrl="http://vnetwise.wordpress.com/feed"/>
       </outline>
       <outline text="Oracle">
+        <outline type="rss" text="Ather Beg’s Useful Thoughts" xmlUrl="http://atherbeg.com/feed/" htmlUrl="http://atherbeg.com"/>
+        <outline type="rss" text="Ather Beg’s Useful Thoughts" xmlUrl="http://atherbeg.com/feed/rss/" htmlUrl="http://atherbeg.com"/>
+        <outline type="rss" text="Blog dbi services" xmlUrl="https://blog.dbi-services.com/feed/" htmlUrl="https://blog.dbi-services.com"/>
+        <outline type="rss" text="Brendan Tierney - Oralytics Blog" xmlUrl="http://www.oralytics.com/feeds/posts/default?alt=rss" htmlUrl="http://www.oralytics.com/"/>
+        <outline type="rss" text="DBA – Rodrigo Jorge – Oracle Dicas e Guias" xmlUrl="http://www.dbarj.com.br/en/feed/" htmlUrl="http://www.dbarj.com.br/en"/>
         <outline type="rss" text="Dbhk's Blog" xmlUrl="https://dbhk.wordpress.com/feed"/>
         <outline type="rss" text="Doug's Oracle Blog" xmlUrl="http://feeds.feedburner.com/DougsOracleBlog"/>
+        <outline type="rss" text="EzDBA – BLOG" xmlUrl="https://ezdba.wordpress.com/feed/" htmlUrl="https://ezdba.wordpress.com"/>
         <outline type="rss" text="Frits Hoogland Weblog" xmlUrl="https://fritshoogland.wordpress.com/feed"/>
+        <outline type="rss" text="Grassroots Oracle" xmlUrl="http://www.grassroots-oracle.com/feeds/posts/default" htmlUrl="http://www.grassroots-oracle.com/"/>
+        <outline type="rss" text="Integrigy Updates" xmlUrl="https://www.integrigy.com/feeds/rss.xml" htmlUrl="https://www.integrigy.com/feeds/rss.xml"/>
         <outline type="rss" text="Late Night Oracle Blog" xmlUrl="https://pmdba.wordpress.com/feed"/>
+        <outline type="rss" text="Laurent Schneider" xmlUrl="http://laurentschneider.com/feed" htmlUrl="http://laurentschneider.com"/>
+        <outline type="rss" text="Oracle 48" xmlUrl="http://blog.oracle48.nl/wordpress/feed/" htmlUrl="http://blog.oracle48.nl/wordpress"/>
+        <outline type="rss" text="Oracle Certified Master's - Blogs" xmlUrl="http://dbaocm.blogspot.com/feeds/posts/default" htmlUrl="http://dbaocm.blogspot.com/"/>
         <outline type="rss" text="Oracle Scratchpad" xmlUrl="http://jonathanlewis.wordpress.com/feed/"/>
+        <outline type="rss" text="Oracle Security Alerts" xmlUrl="http://www.oracle.com/ocom/groups/public/@otn/documents/webcontent/rss-otn-sec.xml" htmlUrl="http://www.oracle.com/technetwork/topics/security/alerts-086861.html"/>
+        <outline type="rss" text="Oracle Senior Architect" xmlUrl="http://boboratech.blogspot.com/feeds/posts/default" htmlUrl="http://boboratech.blogspot.com/"/>
         <outline type="rss" text="Pete Finnigan's Oracle security weblog" xmlUrl="http://petefinnigan.com/weblog/entries/petefinnigan.rdf"/>
+        <outline type="rss" text="Scott’s Weblog" xmlUrl="http://feeds.scottlowe.org/slowe/content/feed/" htmlUrl="http://blog.scottlowe.org/"/>
+        <outline type="rss" text="ThatJeffSmith" xmlUrl="http://www.thatjeffsmith.com/feed/" htmlUrl="http://www.thatjeffsmith.com"/>
+        <outline type="rss" text="The ORACLE-BASE Blog" xmlUrl="https://oracle-base.com/blog/feed/" htmlUrl="https://oracle-base.com/blog"/>
         <outline type="rss" text="Upgrade your Database – NOW!" xmlUrl="https://mikedietrichde.com/feed"/>
       </outline>
       <outline text="SAP">
@@ -201,13 +230,16 @@
         <outline type="rss" text="4n6k" xmlUrl="http://www.4n6k.com/feeds/posts/default"/>
         <outline type="rss" text="Aaron Toponce" xmlUrl="https://pthree.org/feed"/>
         <outline type="rss" text="Adam Caudill" xmlUrl="https://adamcaudill.com"/>
-        <outline type="rss" text="Adam Logue" xmlUrl="https://www.adamlogue.com/feed"/>
         <outline type="rss" text="Adam Logue" xmlUrl="http://adamlogue.com/feed"/>
+        <outline type="rss" text="Adam Logue" xmlUrl="https://www.adamlogue.com/feed"/>
         <outline type="rss" text="A Fistful of Dongles" xmlUrl="http://www.blogger.com/feeds/8875668111631820725/posts/default"/>
         <outline type="rss" text="Andrew Berls" xmlUrl="http://andrewberls.com/feed"/>
         <outline type="rss" text="Balabit Blog" xmlUrl="https://www.balabit.com/blog/feed/" htmlUrl="https://www.balabit.com/blog"/>
         <outline type="rss" text="Blog – Adam Caudill" xmlUrl="https://adamcaudill.com/blog/feed/"/>
+        <outline type="rss" text="Blog – Pindrop" xmlUrl="https://www.pindrop.com/blog/feed/" htmlUrl="https://www.pindrop.com"/>
         <outline type="rss" text="Bob on Medical Device Software" xmlUrl="http://feeds2.feedburner.com/BobOnMedicalDeviceSoftware"/>
+        <outline type="rss" text="Calvin Bui" xmlUrl="https://calvin.me/feed" htmlUrl="https://calvin.me/"/>
+        <outline type="rss" text="CCNA-Security Study Blog" xmlUrl="http://www.ccna-security.net/?feed=rss2" htmlUrl="http://www.ccna-security.net"/>
         <outline type="rss" text="CERIAS Combined Feed" xmlUrl="https://www.cerias.purdue.edu/feeds/main"/>
         <outline type="rss" text="Computer Security Specialist" xmlUrl="http://drericcole.blogspot.com/feeds/posts/default"/>
         <outline type="rss" text="contagio" xmlUrl="http://contagiodump.blogspot.com/feeds/posts/default"/>
@@ -218,6 +250,7 @@
         <outline type="rss" text="Cyber Thoughts" xmlUrl="http://feeds.feedburner.com/staynings/CyberThoughts"/>
         <outline type="rss" text="Daily notes — Daniel Cid v2016" xmlUrl="http://dcid.me/notes"/>
         <outline type="rss" text="Daniel Cid" xmlUrl="http://dcid.me/blog/feed"/>
+        <outline type="rss" text="danielmiessler.com" xmlUrl="https://danielmiessler.com/feed/" htmlUrl="https://danielmiessler.com"/>
         <outline type="rss" text="Dark Reading:" xmlUrl="http://www.darkreading.com/rss_simple.asp"/>
         <outline type="rss" text="David A. Wheeler's Blog" xmlUrl="http://www.dwheeler.com/blog/index.rss"/>
         <outline type="rss" text="David Laceys IT Security Blog | ComputerWeekly" xmlUrl="http://www.computerweekly.com/blog/David-Laceys-IT-Security-Blog"/>
@@ -246,7 +279,9 @@
         <outline type="rss" text="HealthcareInfoSecurity.com  RSS Syndication" xmlUrl="http://feeds.feedburner.com/healthcareinfosecurity/com"/>
         <outline type="rss" text="Heimdal Security Blog" xmlUrl="http://feeds.feedburner.com/HeimdalSecurityBlog"/>
         <outline type="rss" text="HolisticInfoSec" xmlUrl="http://holisticinfosec.blogspot.com/feeds/posts/default"/>
+        <outline type="rss" text="IAPP" xmlUrl="https://iapp.org/rss/daily-dashboard/" htmlUrl="https://iapp.org"/>
         <outline type="rss" text="ICE9 Blog" xmlUrl="http://blog.ice9.us/feeds/posts/default"/>
+        <outline type="rss" text="InfoSecHotSpot" xmlUrl="http://infosechotspot.com/feed/" htmlUrl="http://infosechotspot.com"/>
         <outline type="rss" text="Infosec Island Latest Articles" xmlUrl="https://www.infosecisland.com/rss.html"/>
         <outline type="rss" text="IOActive Labs Research" xmlUrl="http://blog.ioactive.com/feeds/posts/default"/>
         <outline type="rss" text="Irongeek's Security Site" xmlUrl="http://feeds.feedburner.com/IrongeeksSecuritySite"/>
@@ -255,6 +290,7 @@
         <outline type="rss" text="JP" xmlUrl="https://jordanpotti.com/feed"/>
         <outline type="rss" text="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed"/>
         <outline type="rss" text="l33t tutorials" xmlUrl="https://l33ttutorials.wordpress.com/feed"/>
+        <outline type="rss" text="lakkireddymadhu" xmlUrl="https://lakkireddymadhu.com/feed/" htmlUrl="https://lakkireddymadhu.com"/>
         <outline type="rss" text="Latest articles from SC Magazine" xmlUrl="https://www.scmagazine.com/pages/rss.aspx?sectionid=6261"/>
         <outline type="rss" text="Latest news and stories from BleepingComputer.com" xmlUrl="https://www.bleepingcomputer.com/feed"/>
         <outline type="rss" text="Laurent Gaffié blog" xmlUrl="https://g-laurent.blogspot.com/feeds/posts/default"/>
@@ -273,11 +309,12 @@
         <outline type="rss" text="nullsecure" xmlUrl="https://nullsecure.org/feed"/>
         <outline type="rss" text="Open Security Research" xmlUrl="http://blog.opensecurityresearch.com/feeds/posts/default"/>
         <outline type="rss" text="Poshoholic" xmlUrl="https://poshoholic.com/feed"/>
+        <outline type="rss" text="Rafeeq Rehman – Personal Blog" xmlUrl="http://rafeeqrehman.com/feed/" htmlUrl="http://rafeeqrehman.com"/>
         <outline type="rss" text="RaiderSec" xmlUrl="http://raidersec.blogspot.com/feeds/posts/default"/>
         <outline type="rss" text="Red Hat Security Blog Blog Posts" xmlUrl="https://access.redhat.com/blogs/766093/feed"/>
         <outline type="rss" text="Remove Spyware. Spyware Threats Descriptions and Removal Instructions" xmlUrl="http://www.spywarevoid.com/feed"/>
-        <outline type="rss" text="Roger's Information Security Blog" xmlUrl="http://feeds.feedburner.com/RogersInfosecBlog"/>
         <outline type="rss" text="Roger's Information Security Blog" xmlUrl="http://feeds2.feedburner.com/RogersInfosecBlog"/>
+        <outline type="rss" text="Roger's Information Security Blog" xmlUrl="http://feeds.feedburner.com/RogersInfosecBlog"/>
         <outline type="rss" text="Room362.com" xmlUrl="http://feeds.feedburner.com/Room362com"/>
         <outline type="rss" text="RSS Feed | Homeland Security News Wire" xmlUrl="http://www.homelandsecuritynewswire.com/rss"/>
         <outline type="rss" text="RSS feeds on healthcare information security" xmlUrl="http://www.healthcareinfosecurity.com/rss-feeds"/>
@@ -288,15 +325,17 @@
         <outline type="rss" text="Schneier on Security" xmlUrl="https://www.schneier.com/blog/atom.xml"/>
         <outline type="rss" text="Securelist - Information about Viruses, Hackers and Spam" xmlUrl="https://securelist.com/feed"/>
         <outline type="rss" text="Securezoo.com" xmlUrl="https://www.securezoo.com/rss.aspx"/>
+        <outline type="rss" text="Security By Default" xmlUrl="http://securitybydefault.blogspot.com/feeds/posts/default" htmlUrl="http://securitybydefault.blogspot.com/"/>
         <outline type="rss" text="Security on TechRepublic" xmlUrl="http://www.techrepublic.com/rssfeeds/topic/security"/>
         <outline type="rss" text="securosis.com" xmlUrl="https://securosis.com/feeds/blog"/>
         <outline type="rss" text="Shell is Only the Beginning" xmlUrl="http://www.darkoperator.com/blog?format=RSS"/>
         <outline type="rss" text="Shell is Only the Beginning" xmlUrl="http://www.darkoperator.com/?format=rss"/>
         <outline type="rss" text="SkullSecurity" xmlUrl="https://blog.skullsecurity.org/feed"/>
-        <outline type="rss" text="Stack Exchange Security Blog" xmlUrl="http://security.blogoverflow.com"/>
         <outline type="rss" text="Stack Exchange Security Blog" xmlUrl="http://security.blogoverflow.com/feed"/>
+        <outline type="rss" text="Stack Exchange Security Blog" xmlUrl="http://security.blogoverflow.com"/>
         <outline type="rss" text="Steptoe Cyberlaw Podcast" xmlUrl="http://www.steptoe.com/feed-Cyberlaw.rss"/>
         <outline type="rss" text="sysopadmin.com" xmlUrl="http://www.sysopadmin.com/wordpress/?feed=rss2"/>
+        <outline type="rss" text="System Overlord" xmlUrl="https://systemoverlord.com/atom.xml" htmlUrl="https://systemoverlord.com/"/>
         <outline type="rss" text="Techorganic" xmlUrl="https://blog.techorganic.com/feed"/>
         <outline type="rss" text="Tenable Blog" xmlUrl="http://feeds.feedburner.com/tenable/qaXL"/>
         <outline type="rss" text="The Stone Zone" xmlUrl="http://thestone.zone/feed.xml"/>
@@ -305,18 +344,21 @@
         <outline type="rss" text="ToolsWatch.org – The Hackers Arsenal Tools Portal" xmlUrl="http://www.toolswatch.org/feed"/>
         <outline type="rss" text="Trail of Bits Blog" xmlUrl="https://blog.trailofbits.com/feed"/>
         <outline type="rss" text="Travis Finkenauer Blog" xmlUrl="https://travisf.net/blog"/>
-        <outline type="rss" text="US-CERT Current Activity" xmlUrl="https://www.us-cert.gov/ncas/current-activity.xml"/>
+        <outline type="rss" text="[Unknown]" xmlUrl="http://blog.deepsec.net/feed/" htmlUrl="http://blog.deepsec.net"/>
         <outline type="rss" text="US-CERT Current Activity" xmlUrl="http://www.us-cert.gov/ncas/current-activity.xml"/>
+        <outline type="rss" text="US-CERT Current Activity" xmlUrl="https://www.us-cert.gov/ncas/current-activity.xml"/>
         <outline type="rss" text="Verizon Business Security Blog" xmlUrl="http://feeds.feedburner.com/verizonbusiness/tWvQ"/>
         <outline type="rss" text="Windows Incident Response" xmlUrl="http://windowsir.blogspot.com/feeds/posts/default"/>
         <outline type="rss" text="Zbynek's blog" xmlUrl="https://blog-zbynek.rhcloud.com/feed"/>
         <outline type="rss" text="Zdziarski's Blog of Things" xmlUrl="https://www.zdziarski.com/blog/?feed=rss2"/>
+        <outline type="rss" text="Zero Day Initiative - Blog" xmlUrl="https://www.thezdi.com/blog?format=RSS" htmlUrl="https://www.thezdi.com/blog/"/>
+        <outline type="rss" text="zerosum0x0" xmlUrl="https://zerosum0x0.blogspot.com/feeds/posts/default" htmlUrl="http://zerosum0x0.blogspot.com/"/>
       </outline>
       <outline text="Sharepoint">
         <outline type="rss" text="Asif's SharePoint Blog" xmlUrl="http://blog.sharepoint-videos.com/feed/"/>
         <outline type="rss" text="Carsten Keutmann" xmlUrl="http://feeds.feedburner.com/CarstenKeutmann"/>
-        <outline type="rss" text="CleverWorkarounds" xmlUrl="http://www.cleverworkarounds.com/feed/"/>
         <outline type="rss" text="CleverWorkarounds" xmlUrl="http://www.cleverworkarounds.com/feed"/>
+        <outline type="rss" text="CleverWorkarounds" xmlUrl="http://www.cleverworkarounds.com/feed/"/>
         <outline type="rss" text="Craig Lussier" xmlUrl="http://feeds.feedburner.com/CraigLussier"/>
         <outline type="rss" text="Doug Hemminger's SharePoint Musings" xmlUrl="http://www.sharepointdoug.com/feeds/posts/default"/>
         <outline type="rss" text="Ingo Karstein's Blog" xmlUrl="http://blog.karstein-consulting.com/feed/"/>
@@ -338,13 +380,18 @@
       </outline>
       <outline text="SQL">
         <outline type="rss" text="Chris Blogs" xmlUrl="https://cprovolt.wordpress.com/feed"/>
+        <outline type="rss" text="Mohammad Darab – A SQL Server Blog" xmlUrl="https://mohammaddarab.com/feed/" htmlUrl="https://mohammaddarab.com"/>
         <outline type="rss" text="SQL DBA with A Beard" xmlUrl="http://sqldbawithabeard.com/feed"/>
         <outline type="rss" text="SQL-Tune" xmlUrl="https://sqltune.wordpress.com/feed"/>
         <outline type="rss" text="SQLvariations: SQL Server, a little PowerShell, maybe some Tableau" xmlUrl="http://feeds.feedburner.com/Sqlvariations"/>
       </outline>
       <outline text="Storage">
         <outline type="rss" text="Chuck's Blog" xmlUrl="http://chucksblog.emc.com/chucks_blog/atom.xml"/>
+        <outline type="rss" text="FastStorage" xmlUrl="http://faststorage.eu/feed/" htmlUrl="http://faststorage.eu"/>
+        <outline type="rss" text="Gluster Community Website" xmlUrl="http://blog.gluster.org/feed/" htmlUrl="http://blog.gluster.org"/>
+        <outline type="rss" text="NetWorker Information Hub" xmlUrl="http://nsrd.info/blog/feed/" htmlUrl="http://nsrd.info/blog"/>
         <outline type="rss" text="The Backup Blog" xmlUrl="http://feeds.feedburner.com/typepad/AEBl"/>
+        <outline type="rss" text="THE SAN GUY" xmlUrl="https://thesanguy.com/feed/" htmlUrl="https://thesanguy.com"/>
       </outline>
       <outline text="Subscriptions">
         <outline type="rss" text="43 Folders" xmlUrl="http://feeds.feedburner.com/43Folders"/>
@@ -398,6 +445,7 @@
         <outline type="rss" text="Fontleech: The best free fonts on the web." xmlUrl="http://fontleech.com/wp-rss2.php"/>
         <outline type="rss" text="furbo.org" xmlUrl="http://furbo.org/feed"/>
         <outline type="rss" text="g0tmi1k" xmlUrl="https://blog.g0tmi1k.com/atom.xml"/>
+        <outline type="rss" text="GAO Reports" xmlUrl="http://www.gao.gov/rss/reports.xml" htmlUrl="http://www.gao.gov/browse/date/week"/>
         <outline type="rss" text="Gardener of Silicon Rust" xmlUrl="http://www.blogger.com/feeds/24942631/posts/default"/>
         <outline type="rss" text="GeekyBoy.com" xmlUrl="http://www.geekyboy.com/feed"/>
         <outline type="rss" text="GhostBit" xmlUrl="http://www.theghostbit.com/feeds/posts/default"/>
@@ -431,6 +479,7 @@
         <outline type="rss" text="Justin James" xmlUrl="http://digitaldrummerj.me/feed.xml"/>
         <outline type="rss" text="Kaspersky Lab Weblog" xmlUrl="http://www.securelist.com/en/rss/weblog"/>
         <outline type="rss" text="Keith's Consulting Blog" xmlUrl="http://keithga.wordpress.com/feed/"/>
+        <outline type="rss" text="Kelchen on Education" xmlUrl="https://kelchenoneducation.wordpress.com/feed/" htmlUrl="https://kelchenoneducation.wordpress.com"/>
         <outline type="rss" text="Kendal Van Dyke" xmlUrl="http://feeds.feedburner.com/KendalVanDyke"/>
         <outline type="rss" text="/kevinbehr/home" xmlUrl="http://feeds.feedburner.com/kevinbehr"/>
         <outline type="rss" text="Kitchen Soap" xmlUrl="http://feeds.feedburner.com/KitchenSoap"/>
@@ -468,11 +517,12 @@
         <outline type="rss" text="Paul Graydon" xmlUrl="http://paulgraydon.co.uk/atom.xml"/>
         <outline type="rss" text="PC's Telecom Blog" xmlUrl="http://pctelecoms.blogspot.com/feeds/posts/default"/>
         <outline type="rss" text="Penguin Computing Blog" xmlUrl="http://feeds.feedburner.com/PenguinComputingBlog"/>
+        <outline type="rss" text="People Centre" xmlUrl="https://peoplecentre.wordpress.com/feed/" htmlUrl="https://peoplecentre.wordpress.com"/>
         <outline type="rss" text="Perspectives" xmlUrl="http://perspectives.mvdirona.com/SyndicationService.asmx/GetRss"/>
         <outline type="rss" text="Philip Flint" xmlUrl="http://philipflint.com/feed/"/>
         <outline type="rss" text="Plexxi" xmlUrl="http://www.plexxi.com/feed"/>
-        <outline type="rss" text="PostSecret" xmlUrl="http://postsecret.blogspot.com/atom.xml"/>
         <outline type="rss" text="PostSecret" xmlUrl="http://postsecret.com/feed"/>
+        <outline type="rss" text="PostSecret" xmlUrl="http://postsecret.blogspot.com/atom.xml"/>
         <outline type="rss" text="Predictable" xmlUrl="http://blogs.sun.com/sch/feed/entries/rss"/>
         <outline type="rss" text="Printers and Network Printing" xmlUrl="http://feeds.feedburner.com/blogspot/tBVzB"/>
         <outline type="rss" text="ProfitBricks Blog" xmlUrl="https://blog.profitbricks.com/feed"/>
@@ -551,6 +601,7 @@
         <outline type="rss" text="ZenCoffee Blog" xmlUrl="https://blog.zencoffee.org/feed"/>
       </outline>
       <outline text="sysadmin">
+        <outline type="rss" text="9to5Toys" xmlUrl="https://9to5toys.com/feed/" htmlUrl="https://9to5toys.com"/>
         <outline type="rss" text="Alan's Blog" xmlUrl="http://www.akaplan.com/blog/feed"/>
         <outline type="rss" text="Alexander's Blog" xmlUrl="https://www.vdsar.net/feed"/>
         <outline type="rss" text="Amado Martinez" xmlUrl="http://projectivemotion.com/feed"/>
@@ -566,14 +617,19 @@
         <outline type="rss" text="chentiangemalc" xmlUrl="https://chentiangemalc.wordpress.com/feed"/>
         <outline type="rss" text="Chris Sanders" xmlUrl="http://chrissanders.org/feed"/>
         <outline type="rss" text="Clint Boessen's Blog" xmlUrl="http://clintboessen.blogspot.com/feeds/posts/default"/>
+        <outline type="rss" text="Cole Robinson" xmlUrl="http://blog.wikichoon.com/feeds/posts/default" htmlUrl="http://blog.wikichoon.com/"/>
+        <outline type="rss" text="Computer Ramblings" xmlUrl="https://computerramblings.wordpress.com/feed/" htmlUrl="https://computerramblings.wordpress.com"/>
         <outline type="rss" text="Daniel Classon" xmlUrl="http://www.danielclasson.com/feed"/>
         <outline type="rss" text="Dan Tehranian's Blog" xmlUrl="https://dantehranian.wordpress.com/feed"/>
+        <outline type="rss" text="DaveWentzel.com blogs" xmlUrl="http://www.davewentzel.com/blog/feed" htmlUrl="http://www.davewentzel.com/blog"/>
         <outline type="rss" text="Deimosfr Blog" xmlUrl="https://blog.deimos.fr/feed"/>
         <outline type="rss" text="Deployment Research blog" xmlUrl="http://deploymentresearch.com/DesktopModules/Blog/API/RSS/Get?tabid=62&amp;moduleid=383"/>
         <outline type="rss" text="Development and DevOps" xmlUrl="http://tylerpower.io/index.xml"/>
         <outline type="rss" text="DevOps Thoughts" xmlUrl="http://blog.isaacs.net/feed"/>
         <outline type="rss" text="Dominic Cleal's Blog" xmlUrl="https://m0dlx.com/blog/rss"/>
+        <outline type="rss" text="Dominik Serafin" xmlUrl="https://serafin.io/rss/" htmlUrl="https://serafin.io/"/>
         <outline type="rss" text="Dreaming in DevOps" xmlUrl="http://martinb3.io/feed"/>
+        <outline type="rss" text="Erik Bussink" xmlUrl="https://www.bussink.ch/?feed=rss2" htmlUrl="https://www.bussink.ch"/>
         <outline type="rss" text="Ethan Banks" xmlUrl="http://ethancbanks.com/feed"/>
         <outline type="rss" text="Flynn Bundy Blog" xmlUrl="https://flynnbundy.com/blog"/>
         <outline type="rss" text="Formatting the system is not always the solution" xmlUrl="https://rustywinadmin.wordpress.com/feed"/>
@@ -593,10 +649,14 @@
         <outline type="rss" text="manski's blog" xmlUrl="http://feeds.feedburner.com/ManskisBlog"/>
         <outline type="rss" text="Matt Ventura's blog" xmlUrl="http://mattventura.net/feed"/>
         <outline type="rss" text="Mischa Taylor's Coding Blog" xmlUrl="http://misheska.com/atom.xml"/>
+        <outline type="rss" text="MPECS Inc. Blog" xmlUrl="http://feeds2.feedburner.com/MpecsIncBlog" htmlUrl="http://blog.mpecsinc.ca/"/>
         <outline type="rss" text="My posts and thoughts - Zackery Fretty" xmlUrl="http://zackeryfretty.com"/>
+        <outline type="rss" text="Networknet.nl" xmlUrl="http://www.networknet.nl/apps/wp/feed" htmlUrl="http://www.networknet.nl/apps/wp"/>
         <outline type="rss" text="Nick's IT Crap" xmlUrl="https://nicksitcrap.wordpress.com/feed"/>
         <outline type="rss" text="Notes" xmlUrl="http://amythical.tumblr.com/rss"/>
+        <outline type="rss" text="Patrick van den Born - Blog" xmlUrl="http://patrickvandenborn.blogspot.com/feeds/posts/default" htmlUrl="http://patrickvandenborn.blogspot.com/"/>
         <outline type="rss" text="Patshead.com Blog" xmlUrl="http://blog.patshead.com/atom.xml"/>
+        <outline type="rss" text="PC-Addicts" xmlUrl="http://feeds.feedburner.com/PC-Addicts" htmlUrl="http://pc-addicts.com"/>
         <outline type="rss" text="PeteNetLive" xmlUrl="http://www.petenetlive.com/feed"/>
         <outline type="rss" text="Philipp's Tech Blog" xmlUrl="https://blog.heckel.xyz/feed"/>
         <outline type="rss" text="redmad.com" xmlUrl="http://redmad.com/feed"/>
@@ -604,6 +664,7 @@
         <outline type="rss" text="RTFM" xmlUrl="https://joshua.hoblitt.com/feed"/>
         <outline type="rss" text="Sam Doran" xmlUrl="http://samdoran.com/rss"/>
         <outline type="rss" text="Schlomo Schapiro" xmlUrl="http://blog.schlomo.schapiro.org/feeds/posts/default"/>
+        <outline type="rss" text="Scott Gruby's Blog" xmlUrl="https://blog.gruby.com/feed/" htmlUrl="https://blog.gruby.com"/>
         <outline type="rss" text="Scott's Weblog" xmlUrl="http://feeds.scottlowe.org/slowe/content/feed"/>
         <outline type="rss" text="Server Ninjas" xmlUrl="http://www.serverninjas.com/feed"/>
         <outline type="rss" text="setaOffice" xmlUrl="https://setaoffice.com/feed"/>
@@ -619,6 +680,9 @@
         <outline type="rss" text="SysAdminMan" xmlUrl="https://sysadminman.net/blog/feed" htmlUrl="https://sysadminman.net/blog"/>
         <outline type="rss" text="Sysadmin Notebook" xmlUrl="http://sysadminnotebook.blogspot.com/feeds/posts/default"/>
         <outline type="rss" text="Sysadmin ramblings" xmlUrl="http://www.blogger.com/feeds/6951891791466643809/posts/default"/>
+        <outline type="rss" text="SYSADMINTUTORIALS IT TECHNOLOGY BLOG" xmlUrl="http://www.sysadmintutorials.com/feed/" htmlUrl="http://www.sysadmintutorials.com"/>
+        <outline type="rss" text="System Automation" xmlUrl="http://sysadminupdates.com/blog/feed/" htmlUrl="http://sysadminupdates.com/blog"/>
+        <outline type="rss" text="TDSheridan Lab" xmlUrl="http://www.tdsheridanlab.com/feed/" htmlUrl="http://www.tdsheridanlab.com"/>
         <outline type="rss" text="Tech, Automation, Life" xmlUrl="https://flynnbundy.com/feed"/>
         <outline type="rss" text="Techblog – 0xf8.org" xmlUrl="http://www.0xf8.org/techblog/feed"/>
         <outline type="rss" text="Tech for Non-Profits" xmlUrl="http://www.techfornonprofits.com/feeds/posts/default"/>
@@ -626,72 +690,122 @@
         <outline type="rss" text="TechTinkering" xmlUrl="http://feeds.feedburner.com/TechTinkering"/>
         <outline type="rss" text="thebackroomtech" xmlUrl="http://feeds.feedburner.com/thebackroomtech/JpuX"/>
         <outline type="rss" text="The Blog of Todd" xmlUrl="http://feeds.feedburner.com/ToddsSysAdminPage?format=xml"/>
+        <outline type="rss" text="The IT Hollow" xmlUrl="http://theithollow.com/feed/" htmlUrl="http://theithollow.com"/>
         <outline type="rss" text="The IT Skeptic" xmlUrl="http://www.itskeptic.org/rss"/>
         <outline type="rss" text="The Nubby Admin" xmlUrl="http://feeds.feedburner.com/TheNubbyAdmin"/>
+        <outline type="rss" text="The Realm of the Verbal Processor" xmlUrl="https://verbalprocessor.com/feed/" htmlUrl="https://verbalprocessor.com"/>
         <outline type="rss" text="The Surly Admin" xmlUrl="https://thesurlyadmin.com/feed"/>
         <outline type="rss" text="This is Hyper-Awesome" xmlUrl="http://gabrielchapman.com/feed"/>
         <outline type="rss" text="Tickets'n'patches" xmlUrl="http://www.danielstender.com/index.xml"/>
         <outline type="rss" text="Tim Bolton – MCITP – MCTS" xmlUrl="https://timbolton.net/feed"/>
         <outline type="rss" text="To Linux and beyond !" xmlUrl="https://home.regit.org/feed"/>
+        <outline type="rss" text="Tom Talks" xmlUrl="http://feeds.feedblitz.com/tomtalks" htmlUrl="http://tomtalks.uk"/>
         <outline type="rss" text="urbanautomaton.com" xmlUrl="http://urbanautomaton.com/atom.xml"/>
         <outline type="rss" text="Wahl Network" xmlUrl="http://feeds.feedburner.com/WahlNetwork"/>
         <outline type="rss" text="Walery Wysotsky Site" xmlUrl="http://wysotsky.info/?feed=rss2"/>
         <outline type="rss" text="We Got Served" xmlUrl="http://feedpress.me/wegotserved"/>
+        <outline type="rss" text="Weird Everyday Tips and Lifehacks" xmlUrl="https://distinctplace.com/feed/" htmlUrl="https://distinctplace.com"/>
         <outline type="rss" text="Xonay Labs | Michael Teeuw" xmlUrl="http://michaelteeuw.nl"/>
       </outline>
       <outline text="Virtualization">
         <outline type="rss" text="Adventures in a Virtual World" xmlUrl="https://paulgrevink.wordpress.com/feed"/>
         <outline type="rss" text="A glimpse into the life of IT" xmlUrl="http://itforme.wordpress.com/feed/"/>
+        <outline type="rss" text="Altaro's VMware Hub and blog" xmlUrl="http://feeds.feedburner.com/AltaroVMware" htmlUrl="http://www.altaro.com/vmware"/>
+        <outline type="rss" text="Apps, Desktops, and Virtualization" xmlUrl="http://www.kylewise.net/feed/" htmlUrl="http://www.kylewise.net"/>
+        <outline type="rss" text="Ask the Architect" xmlUrl="https://virtualfeller.com/feed/" htmlUrl="https://virtualfeller.com"/>
         <outline type="rss" text="Aslan Brooke's Blog" xmlUrl="http://blog.aslanbrooke.com/feed.xml"/>
         <outline type="rss" text="Blog" xmlUrl="https://beryju.org/en/blog.rss"/>
         <outline type="rss" text="blog.erben.sk" xmlUrl="http://blog.erben.sk/feed"/>
+        <outline type="rss" text="boche.net - VMware vEvangelist" xmlUrl="http://feeds2.feedburner.com/Bochenet-VmwareVirtualizationEvangelist" htmlUrl="http://www.boche.net/blog"/>
         <outline type="rss" text="Born Sysadmin..." xmlUrl="http://vicendominguez.blogspot.com/feeds/posts/default"/>
         <outline type="rss" text="buildVirtual" xmlUrl="http://buildvirtual.net/feed"/>
+        <outline type="rss" text="Carl Stalhood" xmlUrl="http://www.carlstalhood.com/feed/" htmlUrl="http://www.carlstalhood.com"/>
         <outline type="rss" text="Cloud Computing Infrastructure" xmlUrl="http://feeds.feedburner.com/VirtualizationAndOtherRamblings?format=xml"/>
+        <outline type="rss" text="Cloud &amp; Virtualization Complete Guide" xmlUrl="https://sheikvara.wordpress.com/feed/" htmlUrl="https://sheikvara.wordpress.com"/>
+        <outline type="rss" text="CloudXC" xmlUrl="http://www.joshodgers.com/feed/" htmlUrl="http://www.joshodgers.com"/>
+        <outline type="rss" text="Columns" xmlUrl="https://virtualizationreview.com/rss-feeds/columns.aspx" htmlUrl="https://virtualizationreview.com/rss-feeds/columns.aspx"/>
         <outline type="rss" text="CormacHogan.com" xmlUrl="http://feeds.feedburner.com/cormachogan"/>
         <outline type="rss" text="daily life with an shell" xmlUrl="http://lifeandshell.com/feed"/>
+        <outline type="rss" text="Data Center Dan - Blog" xmlUrl="http://www.datacenterdan.com/1/feed" htmlUrl="http://www.datacenterdan.com/blog"/>
         <outline type="rss" text="DiscoPosse - Using the chicken to measure IT" xmlUrl="http://www.discoposse.com/index.php/feed"/>
+        <outline type="rss" text="Eddie's Old Blog" xmlUrl="https://sfitpro.blogspot.com/feeds/posts/default" htmlUrl="http://eddielublog.blogspot.com/"/>
+        <outline type="rss" text="Eddie's Old Blog" xmlUrl="http://feeds.feedburner.com/blogspot/opXqQ" htmlUrl="http://eddielublog.blogspot.com/"/>
+        <outline type="rss" text="Electric Monk" xmlUrl="http://www.electricmonk.org.uk/feed/" htmlUrl="http://www.electricmonk.org.uk"/>
         <outline type="rss" text="ESX Virtualization" xmlUrl="http://www.vladan.fr/feed"/>
         <outline type="rss" text="EverythingShouldBeVirtual" xmlUrl="http://everythingshouldbevirtual.com/feed"/>
         <outline type="rss" text="Fun with virtualization" xmlUrl="http://virtuallyfun.superglobalmegacorp.com/feed"/>
         <outline type="rss" text="Fun with virtualization" xmlUrl="https://virtuallyfun.superglobalmegacorp.com/feed"/>
         <outline type="rss" text="Gabes Virtual World" xmlUrl="http://feeds.feedburner.com/GabesVirtualWorld"/>
         <outline type="rss" text="Geek and I" xmlUrl="http://www.geekandi.com/feed"/>
+        <outline type="rss" text="Grand Portion Technologies" xmlUrl="http://blog.gptnet.net/?feed=rss2" htmlUrl="http://blog.gptnet.net"/>
         <outline type="rss" text="Jase's Place" xmlUrl="http://www.jasemccarty.com/blog/feed"/>
+        <outline type="rss" text="Jase's Place" xmlUrl="http://www.jasemccarty.com/blog/feed/" htmlUrl="http://www.jasemccarty.com/blog"/>
+        <outline type="rss" text="JBcomp.com" xmlUrl="http://jbcomp.com/feed/" htmlUrl="http://jbcomp.com"/>
         <outline type="rss" text="JonKensy.com" xmlUrl="http://www.jonkensy.com/feed"/>
+        <outline type="rss" text="Just one more esxi-guy" xmlUrl="http://esx-guy.blogspot.com/feeds/posts/default" htmlUrl="http://esx-guy.blogspot.com/"/>
         <outline type="rss" text="Karim Vaes" xmlUrl="https://kvaes.wordpress.com/feed/" htmlUrl="https://kvaes.wordpress.com"/>
+        <outline type="rss" text="Kevin Cheng" xmlUrl="http://kevincheng.net/feed/" htmlUrl="http://kevincheng.net"/>
+        <outline type="rss" text="KnowCitrix" xmlUrl="https://knowcitrixx.wordpress.com/feed/" htmlUrl="https://knowcitrixx.wordpress.com"/>
         <outline type="rss" text="Long White Virtual Clouds" xmlUrl="http://longwhiteclouds.com/feed"/>
         <outline type="rss" text="Loops and HoopsLoops and Hoops" xmlUrl="http://dev-loop.net/feed"/>
         <outline type="rss" text="Marco Franssen" xmlUrl="https://marcofranssen.nl/atom.xml"/>
+        <outline type="rss" text="Michelle Laverick…" xmlUrl="http://www.michellelaverick.com/feed/" htmlUrl="http://www.michellelaverick.com"/>
         <outline type="rss" text="Midnight Sailing" xmlUrl="http://midnightsailing.com/?q=rss.xml"/>
+        <outline type="rss" text="mikes.eu" xmlUrl="http://feeds.feedburner.com/Mikeseu-blog" htmlUrl="http://mikes.eu/"/>
         <outline type="rss" text="Miles to go 3.0 ..." xmlUrl="http://feeds.feedburner.com/MilesToGo"/>
         <outline type="rss" text="mwpreston.net" xmlUrl="http://feeds.feedburner.com/mwpreston"/>
         <outline type="rss" text="Myles Gray" xmlUrl="http://feeds.feedburner.com/mylesgray"/>
         <outline type="rss" text="my-virt" xmlUrl="http://my-virt.alfadir.net/feed"/>
+        <outline type="rss" text="My Virtual Vision" xmlUrl="http://blog.myvirtualvision.com/feed/" htmlUrl="http://blog.myvirtualvision.com"/>
+        <outline type="rss" text="MyXenApp" xmlUrl="https://myxenapp.com/feed/" htmlUrl="https://myxenapp.com"/>
+        <outline type="rss" text="Network Inferno" xmlUrl="http://networkinferno.net/feed" htmlUrl="http://networkinferno.net"/>
+        <outline type="rss" text="NetworkLab" xmlUrl="http://www.networklab.in/feed/" htmlUrl="http://www.networklab.in"/>
         <outline type="rss" text="Notes from MWhite" xmlUrl="https://notesfrommwhite.net/feed"/>
+        <outline type="rss" text="Patrick Kremer" xmlUrl="http://www.patrickkremer.com/feed/" htmlUrl="http://www.patrickkremer.com"/>
+        <outline type="rss" text="penguinpunk.net" xmlUrl="https://www.penguinpunk.net/blog/feed/" htmlUrl="https://www.penguinpunk.net/blog"/>
+        <outline type="rss" text="RobinHobo.com" xmlUrl="http://www.robinhobo.com/feed/" htmlUrl="http://www.robinhobo.com"/>
+        <outline type="rss" text="RunNSX" xmlUrl="http://runnsx.com/index.php/feed/" htmlUrl="http://runnsx.com"/>
+        <outline type="rss" text="scottlinux.com | Linux Blog" xmlUrl="https://scottlinux.com/feed/" htmlUrl="https://scottlinux.com"/>
         <outline type="rss" text="sdorsett.github.io" xmlUrl="https://sdorsett.github.io/atom.xml"/>
+        <outline type="rss" text="SFlanders.net" xmlUrl="http://sflanders.net/feed/" htmlUrl="http://sflanders.net"/>
+        <outline type="rss" text="Sparrow Technology" xmlUrl="http://sparrowangelstechnology.blogspot.com/feeds/posts/default" htmlUrl="http://sparrowangelstechnology.blogspot.com/"/>
+        <outline type="rss" text="Sysadmin Stories" xmlUrl="http://ravatheodor.blogspot.com/feeds/posts/default" htmlUrl="http://ravatheodor.blogspot.com/"/>
         <outline type="rss" text="Tech Debug" xmlUrl="http://feeds.feedburner.com/TechDebug"/>
         <outline type="rss" text="TechHead.co.uk" xmlUrl="http://feeds.feedburner.com/techheaddotco"/>
         <outline type="rss" text="Technical notes, my online memory" xmlUrl="http://ilostmynotes.blogspot.com/feeds/posts/default"/>
         <outline type="rss" text="Technodrone" xmlUrl="http://feeds.feedburner.com/technodrone"/>
+        <outline type="rss" text="Terence Luk" xmlUrl="http://terenceluk.blogspot.com/feeds/posts/default" htmlUrl="http://terenceluk.blogspot.com/"/>
+        <outline type="rss" text="thecloudxpert" xmlUrl="https://thecloudxpert.net/feed/" htmlUrl="https://thecloudxpert.net"/>
         <outline type="rss" text="The Lone Sysadmin" xmlUrl="http://feeds.feedburner.com/lonesysadmin/mkpe"/>
         <outline type="rss" text="The SANMAN" xmlUrl="http://www.thesanman.org/feeds/posts/default"/>
         <outline type="rss" text="The vCenterNerd" xmlUrl="http://nigelhickey.com/feed"/>
         <outline type="rss" text="The Virtual Headline" xmlUrl="http://thevirtualheadline.com/feed/"/>
         <outline type="rss" text="TinkerTry" xmlUrl="https://tinkertry.com/feed"/>
+        <outline type="rss" text="[Unknown]" xmlUrl="https://robbeekmans.net/feed/" htmlUrl="https://robbeekmans.net"/>
+        <outline type="rss" text="VCDX181-Blog" xmlUrl="https://www.vcdx181.com/blogs/feed/" htmlUrl="http://www.vcdx181.com/blogs/"/>
         <outline type="rss" text="viktorious.nl – Virtualization &amp; Cloud Management" xmlUrl="https://www.viktorious.nl/feed"/>
         <outline type="rss" text="Virtu-Al" xmlUrl="http://feeds2.feedburner.com/Virtu-Al_NET"/>
         <outline type="rss" text="Virtual Foundry" xmlUrl="http://feeds2.feedburner.com/VirtualFoundry"/>
         <outline type="rss" text="virtual insanity" xmlUrl="http://www.virtualinsanity.com/index.php/feed/"/>
+        <outline type="rss" text="Virtualisatieadvies" xmlUrl="https://virtualisatieadvies.wordpress.com/feed/" htmlUrl="https://virtualisatieadvies.wordpress.com"/>
+        <outline type="rss" text="Virtualization The Future" xmlUrl="http://feeds.feedburner.com/Virtualization24x7" htmlUrl="http://virtualization24x7.blogspot.com/"/>
+        <outline type="rss" text="Virtualize my Datacenter" xmlUrl="http://feeds.feedburner.com/Messaging-virtualization" htmlUrl="https://virtualizemydc.ca"/>
         <outline type="rss" text="virtuallyGhetto" xmlUrl="http://www.virtuallyghetto.com/feeds/posts/default"/>
+        <outline type="rss" text="VirtuallyInclined.com" xmlUrl="http://virtuallyinclined.com/feed/" htmlUrl="http://virtuallyinclined.com"/>
         <outline type="rss" text="Virtually Sober" xmlUrl="https://virtuallysober.com/feed/" htmlUrl="https://virtuallysober.com"/>
+        <outline type="rss" text="Virtual Me" xmlUrl="http://feeds.feedburner.com/blogjgriffithsorg" htmlUrl="http://blog.jgriffiths.org"/>
         <outline type="rss" text="virtualstace.com" xmlUrl="https://virtualstace.com/feed"/>
         <outline type="rss" text="Virtual to the Core" xmlUrl="http://www.virtualtothecore.com/en/feed"/>
         <outline type="rss" text="vLore Blog" xmlUrl="https://vloreblog.com/feed"/>
         <outline type="rss" text="VMdamentals" xmlUrl="http://www.vmdamentals.com/?feed=rss2"/>
+        <outline type="rss" text="VMMaster" xmlUrl="https://vmmasterblog.wordpress.com/feed/" htmlUrl="https://vmmasterblog.wordpress.com"/>
         <outline type="rss" text="VM Spot" xmlUrl="http://www.vmspot.com/feed/" htmlUrl="http://www.vmspot.com"/>
+        <outline type="rss" text="vMusketeers" xmlUrl="http://vmusketeers.com/feed/" htmlUrl="http://vmusketeers.com"/>
+        <outline type="rss" text="VMware Admin's Blog" xmlUrl="https://vmadminsblog.wordpress.com/feed/" htmlUrl="https://vmadminsblog.wordpress.com"/>
         <outline type="rss" text="VMware Security &amp; Compliance Blog" xmlUrl="http://feeds.feedburner.com/VmwareSecurityComplianceBlog"/>
+        <outline type="rss" text="VMware Snapshots" xmlUrl="http://vsnapshots.blogspot.com/feeds/posts/default" htmlUrl="http://vsnapshots.blogspot.com/"/>
         <outline type="rss" text="vNinja.net" xmlUrl="http://feeds.feedburner.com/vNinja"/>
+        <outline type="rss" text="Welcome to vSphere-land!" xmlUrl="http://feeds2.feedburner.com/vSphere-land" htmlUrl="http://vsphere-land.com"/>
         <outline type="rss" text="WoodITWork.com" xmlUrl="http://www.wooditwork.com/feed/"/>
         <outline type="rss" text="www.run-virtual.com" xmlUrl="http://www.run-virtual.com/?feed=rss2"/>
         <outline type="rss" text="Zoltan's dev blog" xmlUrl="http://szazo.github.io/index.xml"/>
@@ -714,7 +828,7 @@
       <outline pref-name="CONFIRM_FEED_CATCHUP" value="true"/>
       <outline pref-name="DEFAULT_ARTICLE_LIMIT" value="30"/>
       <outline pref-name="_DEFAULT_INCLUDE_CHILDREN" value="false"/>
-      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="30"/>
+      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="15"/>
       <outline pref-name="_DEFAULT_VIEW_LIMIT" value="30"/>
       <outline pref-name="_DEFAULT_VIEW_MODE" value="unread"/>
       <outline pref-name="_DEFAULT_VIEW_ORDER_BY" value="default"/>
